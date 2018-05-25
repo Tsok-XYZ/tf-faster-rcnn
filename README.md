@@ -1,2 +1,2 @@
 # tf-faster-rcnn
-faster rcnn with tensorflow slim
+just an another version of endernewton/tf-faster-rcnn
